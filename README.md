@@ -1,4 +1,4 @@
-### Hi there 👋
+[![MasterHead](https://github.com/ThePatriczek/ThePatriczek/blob/main/header.png)](https://github.com/ThePatriczek/ThePatriczek/)
 ![ThePatriczek's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepatriczek&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=thepatriczek&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
